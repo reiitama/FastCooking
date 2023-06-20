@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#70d6ff</color>
+    <color name="pink">#FFABCB</color>
+    <color name="misty">#FFE4E1</color>
+    <color name="rosy">#BC8F8F</color>
+    <color name="orange">#ff9770</color>
+    <color name="cream">#ffd670</color>
+    <color name="yellow">#E9FF70</color>
+    <color name="white">#FFFFFF</color>
+    <color name="youtube">#C64141</color>
+    <color name="black">#000000</color>
+    <color name="grey">#7A7474</color>
+    <color name="hintTextColor">#787878</color>
+    <color name="transparent">#00000000</color>
+</resources>
